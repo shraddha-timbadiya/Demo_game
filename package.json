@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@material-ui/icons": "^4.11.3",
+    "axios": "^0.27.2",
+    "axios-react": "^2.0.8",
+    "bootstrap": "^5.0.0-alpha1",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^5.3.0"
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
